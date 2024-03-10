@@ -1,5 +1,5 @@
-# Pomodro-App
-Pomodro script written in Python + Tkinter
+# Pomodoro-App
+Pomodoro script written in Python + Tkinter
 
-In Pomodro directory you can find a lot of icons also. 
-I added also main.exe file to use this pomodro script as executible app.
+In the Pomodoro directory, you can also find a lot of icons. 
+I also added the main.exe file to use this Pomodro script as an executable app.
